@@ -1,0 +1,3 @@
+allowBuilds:
+  dtrace-provider: false
+  msgpackr-extract: true
